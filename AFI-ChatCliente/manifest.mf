@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.7.0_75-b13 (Oracle Corporation)
+Implementation-Version: 1.0
+Full-Version: 1.0.236
+Specification-Title: UI del Chat Cliente AFI(Agencia Federal de Inteli
+ gencia)
+Build-Number: 236
+Built-Date: 2015-05-17
+Built-Time: 21:48:57
+
